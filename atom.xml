@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ting&#39;s blog</title>
+  
+  <subtitle>持續努力</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-04-04T11:37:26.073Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>LinTing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/04/03/hello-world/"/>
+    <id>http://example.com/2025/04/03/hello-world/</id>
+    <published>2025-04-03T15:10:52.389Z</published>
+    <updated>2025-04-04T11:37:26.073Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="哈囉"><a href="#哈囉" class="headerlink" title="哈囉"></a>哈囉</h2><h3 id="你好啊"><a href="#你好啊" class="headerlink" title="你好啊"></a>你好啊</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
